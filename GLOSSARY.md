@@ -9,3 +9,7 @@
 ## human-centered
 
 антропоцентрический
+
+## human organization
+
+гуманитарная организация
